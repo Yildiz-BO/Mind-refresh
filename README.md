@@ -1,0 +1,2 @@
+# Mind-refresh
+Mind Refresh is a strategic game of 2 players which is played on a checkboard of 10*10  (ten times ten) boxes with 15 soldiers per player. The objective of the game is to occupy the opposing side with its own soldiers. The first to achieve it wins the game . The soldiers are represented by discs in the figures above. N.B:  there is an alternative in the game with 4 players , in this case each player with 6 soldiers at his disposal.  
